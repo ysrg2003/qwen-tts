@@ -1,0 +1,7 @@
+gradio
+python-multipart
+torch
+torchaudio
+soundfile
+requests
+qwen-tts
