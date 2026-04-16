@@ -1,7 +1,7 @@
 from gradio_client import Client
 import shutil
 
-SPACE_URL = "Yousefsg/qwen-tts-design"
+SPACE_URL = "Yousefsg/qwen-tts-design1"
 print("🔄 جاري الاتصال بالسيرفر (القناة مفتوحة ولن تنقطع)...")
 client = Client(SPACE_URL)
 
